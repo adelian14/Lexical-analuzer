@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678505281 source:h:\projects\problem solving\lexical\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
