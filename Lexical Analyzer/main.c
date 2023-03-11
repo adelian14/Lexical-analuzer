@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
+
+// Ali Adel Ali Hassan     Section 4
+
 char keywords[1000][10],id[1000][20],notid[1000][20],numbers[1000][15],ops[1000][2],strtoken[100][100],specialcahr[1000][2];
 int ki,idi,noti,ni,opi,stk,sc;
 bool isKeyword(char str[]){
